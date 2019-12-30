@@ -1,3 +1,5 @@
-﻿עידו חיון - 204062574
-טים בוכבידר - 313419814
-מתוגברת
+# C Project | MTA
+## Apartment Manager
+
+1. Manage apartments with Console application
+With command user can add, delete, search, sort and show apartment with conditions, keywords and etc.
